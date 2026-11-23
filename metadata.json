@@ -1,0 +1,5 @@
+{
+  "name": "KasirPintar Android",
+  "description": "Aplikasi kasir modern dengan tampilan ala Android, fitur manajemen produk, laporan keuangan, dan cetak struk.",
+  "requestFramePermissions": []
+}
